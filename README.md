@@ -3,7 +3,7 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-I'm suraim 👋<br><br>
+I'm sam 👋<br><br>
 I'm an Actuarial Sciences student who is currently learning more about data, programming, and data science.<br><br>
 I'm still a beginner, so this GitHub is mostly a place where I share my learning process, projects, experiments, and things I'm currently working on.
 </p>
