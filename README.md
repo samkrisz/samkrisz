@@ -34,7 +34,7 @@ I'm still a beginner, so this GitHub is mostly a place where I share my learning
 
 <p align="left">
 Currently exploring data analysis projects and participating in small projects and datathons to improve my skills.<br><br>
-I'm still learning, so there's probably a lot of room for improvement here — and that's the point.
+I'm still learning, so there's probably a lot of room for improvement here and that's the point.
 </p>
 
 <br>
