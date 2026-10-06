@@ -3,7 +3,7 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-I'm sam 👋<br><br>
+I'm suraim 👋<br><br>
 I'm an Actuarial Sciences student who is currently learning more about data, programming, and data science.<br><br>
 I'm still a beginner, so this GitHub is mostly a place where I share my learning process, projects, experiments, and things I'm currently working on.
 </p>
@@ -36,20 +36,6 @@ I'm still a beginner, so this GitHub is mostly a place where I share my learning
 Currently exploring data analysis projects and participating in small projects and datathons to improve my skills.<br><br>
 I'm still learning, so there's probably a lot of room for improvement here — and that's the point.
 </p>
-
-<h2 align="left">📫 Let's Connect</h2>
-
-<p align="left">
-Feel free to explore my repositories and follow along with my learning journey!
-</p>
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-</div>
 
 <br>
 
